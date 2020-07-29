@@ -25,3 +25,4 @@
 # To access through a link copy and paste the following into your browser
 
 https://ruhacks-277409.nn.r.appspot.com/
+Site is currently down for maintenance. For a demo of the site please visit https://devpost.com/software/dermacare-tqg0e5
